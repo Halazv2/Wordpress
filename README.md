@@ -28,3 +28,6 @@
 Suivez les instructions à l’écran et entrez le nom de la base de données que vous avez choisie, votre utilisateur WordPress (généralement « root ») et le mot de passe de la base de données. WordPress est alors installé sur XAMPP.
 
 ![xampp09_en](https://user-images.githubusercontent.com/93977152/166075334-efc1c2b6-17fe-496e-a2dd-d6a16ee5223d.png)
+
+
+Template : http://localhost/wordpress/wp-admin/themes.php?page=starter-templates&ci=6
